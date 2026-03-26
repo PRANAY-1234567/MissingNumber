@@ -81,10 +81,12 @@ for i in range(1, n+1):
         break
 
 print("Missing number is:", missing)
+
 📚 Learning Outcome
 
 After understanding this program, you will learn:
-
 How to solve problems using mathematical formulas
 How to work with lists in Python
 How to optimize solutions instead of using loops
+
+<img width="666" height="772" alt="image" src="https://github.com/user-attachments/assets/17686aea-08a0-47fb-b0a4-5a5cc0210cff" />
