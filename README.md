@@ -15,6 +15,7 @@ sum_arr = sum(arr)
 missing = total - sum_arr
 
 print("Missing number is:", missing)
+
 🧠 How It Works
 1️⃣ Understand the Problem
 
